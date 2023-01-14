@@ -1,4 +1,4 @@
-module yasserhejlah/goVosProject
+module github.com/yasserhejlah/goVosProject
 
 go 1.19
 
